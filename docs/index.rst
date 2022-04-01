@@ -1,8 +1,8 @@
 ###########################################
-Panduan Nada Dering Pesan WA dengan Suara Google
+Dokumentasi Teknologi dan Review Aplikasi Terbaru
 ###########################################
 
-Berikut fitur-fitur terbaru dari aplikasi `X8 Speeder`_ dari tim Sebuahutas.com
+Berikut fitur-fitur terbaru dari aplikasi `Suara Google`_ dari tim Karinov
 
 
 ********
@@ -31,4 +31,4 @@ References
 
 .. target-notes::
 
-.. _`Sphinx`: https://www.sebuahutas.com/2022/04/x8-speeder-apk-official-download.html
+.. _`Suara Google`: https://www.sebuahutas.com/2021/12/sound-of-text-wa-suara-google-indonesia.html
