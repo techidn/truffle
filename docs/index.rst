@@ -2,7 +2,7 @@
 Dokumentasi Teknologi dan Review Aplikasi Terbaru
 ###########################################
 
-Berikut fitur-fitur terbaru dari aplikasi `Suara Google`_ dari tim Karinov
+Berikut fitur-fitur terbaru dari aplikasi `Suara Google`_ dari tim SebuahUtas
 
 
 ********
