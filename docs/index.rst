@@ -74,4 +74,4 @@ References
 
 .. target-notes::
 
-.. _`Suara Google`: https://www.sebuahutas.com/2022/02/cara-membuat-suara-google-di-hp-tanpa.html
+.. _`Suara Google`: https://www.technolati.com/2022/02/cara-bikin-suara-google-di-whatsapp.html
