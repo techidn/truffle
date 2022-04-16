@@ -41,6 +41,8 @@ Misalnya:
 	- Ia menyajikan makalah "Penerapan *A*sas-*A*sas Hukum Perdata".
 	- Slogan "*T*erus-*m*enerus *R*amah-*t*amah" dikampanyekan gubernur baru itu.
   
+Buat Suara Google Bahasa Indoensia yang sesuai pedoman PUEBI di: https://www.sebuahutas.com/2022/02/cara-membuat-suara-google-di-hp-tanpa.html 
+
 Hak Cipta
 -----
 
