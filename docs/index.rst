@@ -14,7 +14,7 @@ Teknologi text to speech yang sudah support bahasa Indonesia bisa kita temukan d
 Google Translate
 -----------
 
-Aplikasi pertama Anda dapat menggunakan Google Translate yang menjadi salah satu layanan terbaik dari pihak Google. Sebebarnya layanan ini dapat melakukan translate dari sebuah bahasa ke banyak bahasa lainnya. Akan tetapi rupanya tak hanya itu sebab Google Translate juga mempunyai fitur berupa text to speech. Fitur tersebut mampu mendukung sampai 100 bahasa yang otomatis termasuk untuk pilihan bahasa Indonesia.
+Aplikasi pertama Anda dapat menggunakan Google Translate yang menjadi salah satu layanan terbaik dari pihak Google. Sebebarnya layanan ini dapat melakukan translate dari sebuah bahasa ke banyak bahasa lainnya. Akan tetapi rupanya tak hanya itu sebab Google Translate juga mempunyai fitur berupa text to speech. Fitur tersebut mampu mendukung sampai 100 bahasa yang otomatis termasuk untuk pilihan bahasa Indonesia salah satunya menggunakan situs `sound of text wa <https://www.sebuahutas.com/2021/12/sound-of-text-wa-suara-google-indonesia.html>`_.
 
 Layanan google translate juga sudah support serta dapat berjalan untuk banyak sistem operasi maupun perangkat seperti komputer, laptop maupun ponsel Android ataupun iPhone iOS. Pastinya untuk cara pemakaiannya sangatlah mudah, kamu hanya perlu menentukan pilihan berupa referensi bahasa yang akan digunakan seperti bahasa Indonesia. Tetapi untuk platform Google Translate hanya dapat merubah tulisan menjadi suara tak lebih dari sebanyak 1500 karakter.
 
@@ -30,7 +30,7 @@ Apk Narrator’s Voice
 
 Aplikasi selanjutnya yaitu Narrator’s Voice yang menawarkan sesuatu sedikit berbeda. Adapun fitur yang ada di aplikasi ini yaitu bisa membaca teks dari pesan, web, aplikasi maupun sumber lainnya. Selain itu aplikasi tersebut juga mempunyai sisi yang menyenangkan yaitu kamu bisa menambahkan banyak efek suara dalam sintetis ucapan misalnya berkumur, gema bahkan paduan suara sekalipun. Aplikasi ini mempunyai banyak pilihan suara untuk Anda pilih.
 
-Di dalamnya terdapat beberapa favorit seperti Siri dan Cortana. Bukan hanya itu, aplikasi Narrator’s Voice juga memungkinkan kamu menambahkan teks sendiri yang setelahnya dijalankan lewat synthesizernya. Itulah yang membuat aplikasi tersebut menjadi cara terbaik guna menambahkan suara ke dalam narasi sebuah video, presentasi berbentuk slideshow serta masih banyak lagi. Narrator’s Voice juga membuat Anda bisa menyimpan file output video sebagai MP3 secara offline.
+Di dalamnya terdapat beberapa favorit seperti Siri dan Cortana. Bukan hanya itu, `aplikasi Narrator’s Voice <https://suaragoogle.readthedocs.io/en/latest/application/>`_ juga memungkinkan kamu menambahkan teks sendiri yang setelahnya dijalankan lewat synthesizernya. Itulah yang membuat aplikasi tersebut menjadi cara terbaik guna menambahkan suara ke dalam narasi sebuah video, presentasi berbentuk slideshow serta masih banyak lagi. Narrator’s Voice juga membuat Anda bisa menyimpan file output video sebagai MP3 secara offline.
 
 Aplikasi Talk Free
 -----------
