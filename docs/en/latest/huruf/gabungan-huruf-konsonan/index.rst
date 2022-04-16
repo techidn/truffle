@@ -1,4 +1,5 @@
-# E. Gabungan Huruf Konsonan
+E. Gabungan Huruf Konsonan
+================
 
 Gabungan huruf konsonan *kh*, *ng*, *ny*, dan *sy* masing-masing melambangkan satu bunyi konsonan.
 
