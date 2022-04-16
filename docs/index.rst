@@ -48,9 +48,7 @@ Berikutnya ada aplikasi bernama T2 yakni layanan text to speech dengan penawaran
 
 Itulah sejumlah aplikasi text to speech seperti google voice Indonesia yang bisa Anda gunakan secara langsung.
 
-Beberapa tools bahasa aksara lokal Indonesia yang bisa kamu gunakan secara online:
-- `Aksara Jawa <https://www.sebuahutas.com/2022/03/translate-aksara-jawa-online-dari-huruf.html>`_
-- `Aksara Sunda <https://www.sebuahutas.com/2022/04/translate-huruf-aksara-sunda-font-latin.html>`_
+Beberapa tools bahasa aksara lokal Indonesia yang bisa kamu gunakan secara online: `Aksara Jawa <https://www.sebuahutas.com/2022/03/translate-aksara-jawa-online-dari-huruf.html>`_ dan `Aksara Sunda <https://www.sebuahutas.com/2022/04/translate-huruf-aksara-sunda-font-latin.html>`_.
 
 ********
 Contents
