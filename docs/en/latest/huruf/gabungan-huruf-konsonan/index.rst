@@ -9,6 +9,8 @@ ng | *ng*arai | ba*ng*un | sena*ng*
 ny | *ny*ata | ba*ny*ak | -
 sy | *sy*arat | mu*sy*awarah | ara*sy*
 
+Download sound of text Bahasa Indonesia resmi dari Google translate di: https://www.voiceoftext.com/p/sound-of-text-wa.html
+
 Hak Cipta
 -----
 
