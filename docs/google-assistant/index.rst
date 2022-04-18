@@ -1,3 +1,6 @@
+Fitur Google Assitant Terbaru
+=========================
+
 Tahukah Anda bahwa Google mempunyai fitur yang sangat canggih guna membantu menyelesaikan berbagai pertanyaan? Asisten Google namanya. Asisten Google akan memberikan informasi sesuai dengan yang Anda perintahkan.
 
 Artinya Asisten Google dapat mengetahui segalanya dengan memberikan jawaban yang memukau atau pertanyaan yang Anda ajukan. Selain itu Anda akan merasa terheran - heran dan tersenyum sendiri ketika mendengar atau membacanya.
@@ -11,7 +14,7 @@ Tidak hanya itu saja, Asisten Google juga dapat membantu Anda guna meminta perin
 Selain itu, hebatnya lagi Asisten Google mempunyai suara yang bagus dan jernih untuk dengan baik dapat diterima di telinga manusia. Untuk mendapatkan semua manfaat tersebut Anda harus mengaktifkan terlebih dahulu Asisten Googlenya.
 
 Cara Aktifkan Asisten Google pada Android
-=======================
+-------------------------
 
 Bagi Anda pengguna Android yang ingin merasakan manfaat Asisten Google, baca informasi dibawah ini guna membantu Anda menyelesaikan masalah atas pertanyaan `cara mengaktifkan Asisten Google <https://www.sebuahutas.com/2022/03/cara-mengaktifkan-asisten-google-dengan.html>`_ pada Android.
 
@@ -29,7 +32,7 @@ Semakin penasaran bagaimana cara mengaktifkan? Tunggu apalagi, simak informasi l
 8. Selesai, kini Asisten Google pada ponsel Android yang Anda miliki sudah dapat digunakan. Kini waktunya Anda menggunakan kecanggihan teknologi pada fitur Asisten Google.
 
 Cara Aktifkan Asisten Google pada iOS
-=====================
+-------------------------
 
 Jangan khawatir buat Anda pengguna ponsel dengan sistem iOS, tentu akan ada cara lain yang bisa Anda ikuti guna mengaktifkan Asisten Google tersebut. Anda dapat mengaktifkannya dengan mudah pada ponsel iOS Anda. Berikut langkah - langkah yang bisa Anda ikuti dengan seksama.
 
@@ -45,7 +48,7 @@ Jangan khawatir buat Anda pengguna ponsel dengan sistem iOS, tentu akan ada cara
 10. Selesai, sekarang Anda dapat merasakan banyaknya manfaat yang dimiliki oleh fitur Asisten Google tersebut.
 
 Cara Mudah Buka Asisten Google dengan Tombol Data
-==================
+-------------------------
 
 Buat Anda yang menginginkan kemudahan selanjutnya, bisa dengan membuka fitur Asisten Google pada tombol data yaitu dengan cara memunculkan terlebih dahulu icon Asisten Google. Berikut cara yang bisa Anda lakukan guna memunculkan icon Asisten Google.
 
