@@ -59,6 +59,7 @@ Contents
 
    style-guide
    aksara-sunda/index
+   google-assistant/index
 
 **********
 References
