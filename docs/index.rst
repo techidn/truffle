@@ -14,7 +14,7 @@ Teknologi text to speech yang sudah support bahasa Indonesia bisa kita temukan d
 Google Translate
 -----------
 
-Aplikasi pertama Anda dapat menggunakan Google Translate yang menjadi salah satu layanan terbaik dari pihak Google. Sebebarnya layanan ini dapat melakukan translate dari sebuah bahasa ke banyak bahasa lainnya. Akan tetapi rupanya tak hanya itu sebab Google Translate juga mempunyai fitur berupa text to speech. Fitur tersebut mampu mendukung sampai 100 bahasa yang otomatis termasuk untuk pilihan bahasa Indonesia salah satunya menggunakan situs `sound of text wa <https://www.sebuahutas.com/2021/12/sound-of-text-wa-suara-google-indonesia.html>`_.
+Aplikasi pertama Anda dapat menggunakan Google Translate yang menjadi salah satu layanan terbaik dari pihak Google. Sebebarnya layanan ini dapat melakukan translate dari sebuah bahasa ke banyak bahasa lainnya. Akan tetapi rupanya tak hanya itu sebab Google Translate juga mempunyai fitur berupa text to speech. Fitur tersebut mampu mendukung sampai 100 bahasa yang otomatis termasuk untuk pilihan bahasa Indonesia salah satunya menggunakan situs `sound of text wa <https://www.sebuahutas.com/2022/05/sound-of-text-wa-indonesia-terbaru.html>`_.
 
 Layanan google translate juga sudah support serta dapat berjalan untuk banyak sistem operasi maupun perangkat seperti komputer, laptop maupun ponsel Android ataupun iPhone iOS. Pastinya untuk cara pemakaiannya sangatlah mudah, kamu hanya perlu menentukan pilihan berupa referensi bahasa yang akan digunakan seperti bahasa Indonesia. Tetapi untuk platform Google Translate hanya dapat merubah tulisan menjadi suara tak lebih dari sebanyak 1500 karakter.
 
@@ -50,6 +50,29 @@ Itulah sejumlah aplikasi text to speech seperti google voice Indonesia yang bisa
 
 Beberapa tools bahasa aksara lokal Indonesia yang bisa kamu gunakan secara online: `Aksara Jawa <https://www.sebuahutas.com/2022/03/translate-aksara-jawa-online-dari-huruf.html>`_ dan `Aksara Sunda <https://www.sebuahutas.com/2022/04/translate-huruf-aksara-sunda-font-latin.html>`_.
 
+Cara Buat Suara Google di Situs Sound of Text
+------------------------
+
+Soundoftext.com sendiri adalah situs yang menyediakan fitur pengubah teks menjadi format suara. Situs ini bisa kamu manfaatkan secara gratis. Bahkan kamu juga tak perlu repot-repot mengunduh aplikasi tambahan. Jika kamu ingin memanfaatkan situs ini, maka kamu cukup mengunjungi soundoftext.com. 
+
+Pada dasarnya, cara kerja situs sound of text hampir sama dengan text to speech yaitu dengan mengubah teks menjadi suara. Hanya saja dalam situs ini memiliki beberapa keunggulan dibandingkan dengan text to speech. Dalam `Sound of text`_, kamu bisa lebih leluasa memilih beragam bahasa dan juga karakter suara yang diinginkan.
+
+Ada banyak pilihan bahasa yang disediakan seperti bahasa Indonesia, Korea, Jepang, Arab dan lainnya. Situs sound of text juga layak untuk kamu coba karena proses konversi teks menjadi suara berjalan cukup cepat.
+
+Adapun untuk buat suara google di situs Sound of text sangatlah mudah, bahkan bagi siapapun yang baru menggunakan. Ikuti langkah-langkahnya di bawah ini:
+
+- Langkah 1: Buka situs soundoftext.com melalui laptop atau smartphone.
+- Langkah 2: Dalam situs soundoftext.com kamu tidak perlu registrasi akun dan login.
+- Langkah 3: Pada halaman awal, kamu akan menemukan kolom "Text". Kamu bisa menuliskan teks yang ingin kamu ubah menjadi format suara. Kamu juga bisa memindahkan teks yang sebelumnya telah kamu miliki. Tinggal melakukan copy and paste.
+- Langkah 4: Di bagian bawah kolom "Text" terdapat kolom "Voice". Kamu bisa menentukan bahasa yang ingin kamu gunakan.
+- Langkah 5: Pilih "Indonesian", jika kamu ingin mengubah menjadi suara Google bahasa Indonesia.
+- Langkah 6: Kemudian klik tombol "Submit" untuk melakukan proses konversi.
+- Langkah 7: Tunggu beberapa saat untuk proses konversi.
+- Langkah 8: Dengarkan hasil konversi dengan klik tombol  "Play".
+- Langkah 9: Jika sudah sesuai maka kamu bisa download suara tersebut dengan klik tombol "Download".
+
+Selanjutnya file hasil download tersebut akan tersimpan pada perangkat yang kamu gunakan. Kamu bisa mencari hasil unduhan tersebut di folder "Download". File suara yang telah kamu unduh tersebut selanjutnya bisa kamu manfaatkan secara gratis untuk keperluanmu. Kamu bisa menggunakannya untuk nada dering atau audio dalam video yang akan kamu buat.
+
 ********
 Contents
 ********
@@ -70,3 +93,4 @@ References
 .. target-notes::
 
 .. _`Suara Google`: https://www.technolati.com/2022/02/cara-bikin-suara-google-di-whatsapp.html
+.. _`Sound of text`: https://www.autobild.co.id/2022/04/sound-of-text-wa-di-android-dan-iphone.html
