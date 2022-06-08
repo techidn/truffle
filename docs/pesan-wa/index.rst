@@ -27,10 +27,22 @@ Untuk menginstal aplikasi ini di perangkatmu, pertama kamu harus download dulu l
 - Pastikan proses instalasi hingga selesai dan aplikasi benar-benar terpasang di perangkat. 
 - Setelah dipastikan terpasang, silahkan kamu buka dan nikmati fitur-fitur unggulannya.
 
+
+Bagaimana Cara Mengizinkan Instal Aplikasi WA GB dari Sumber Tak Dikenal?
+----------------------
+
+Aplikasi tak dikenal merupakan aplikasi yang berasal dari luar Google Play Store. GB WA merupakan aplikasi modifikasi dari WhatsApp jadi termasuk aplikasi tak dikenal. Aplikasi ini juga tidak tersedia di Google Play Store. Jika ingin mengizinkan aplikasi tak dikenal, kamu bisa mengikuti langkah-langkah berikut ini:
+
+- Buka menu Settings yang ada di smartphone milikmu.
+- Masuk ke opsi Apps and Notifications.
+- Pilih Special App Access.
+- Lalu centang atau izinkan untuk Install Unknown Apps.
+- Selesai, kamu sudah bisa menginstall aplikasi yang berasal dari luar Google Play Store.
+
 **********
 References
 **********
 
 .. target-notes::
 
-.. _`GB WhatsApp`: https://www.sebuahutas.com/2022/02/gb-wa-pro-apk-gb-whatsapp-official.html
+.. _`GB WhatsApp`: https://www.sebuahutas.com/2022/06/gb-whatsapp-pro-v-download-apk-wa-gb.html
