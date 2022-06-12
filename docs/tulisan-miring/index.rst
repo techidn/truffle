@@ -1,4 +1,4 @@
-Cara membuat Tulisan Miring
+Cara Membuat Tulisan Miring
 ==================
 
 Bagaimana cara buat tulisan miring dan cara kirim tulisan miring di wa? WhatsApp memang memberikan banyak kemudahan fitur untuk penggunanya, salah satunya adalah fitur format teks WhatsApp untuk tulisan unik wa.
@@ -25,3 +25,17 @@ Untuk Penulisan Quote
 Seringkali di WhatsApp, entah itu berkirim pesan dengan orang lain atau membuat cerita wa, kamu memiliki quotes yang ingin dibagikan pada lebih banyak orang.
 
 Peran tulisan miring ini bisa dipakai pada quote tersebut, sehingga kalimat quote-nya akan beda dari yang lain.
+
+Cara Kirim Tulisan di WA dengan Format
+----------------------
+
+Tulisan unik di wa biasanya dibuat dengan format teks tertentu, salah satunya adalah tulisan miring (italic). Langsung saja berikut ini format penulisan teks yang miring.
+
+1. Buka aplikasi WhatsApp.
+2. Tulis format penulisan berikut _Contoh tulisan miring_ kamu bisa sesuaikan sendiri teks-nya.
+3. Kemudian tekan kirim, maka hasilnya akan seperti gambar berikut ini
+
+.. image:: images/wa_miring.jpg
+   :width: 600
+   
+**Referensi:** `Generator tulisan miring <https://www.autobild.co.id/p/generator-tulisan-miring.html>`_
