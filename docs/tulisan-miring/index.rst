@@ -32,7 +32,7 @@ Cara Kirim Tulisan di WA dengan Format
 Tulisan unik di wa biasanya dibuat dengan format teks tertentu, salah satunya adalah tulisan miring (italic). Langsung saja berikut ini format penulisan teks yang miring.
 
 1. Buka aplikasi WhatsApp.
-2. Tulis format penulisan berikut _Contoh tulisan miring_ kamu bisa sesuaikan sendiri teks-nya.
+2. Tulis format penulisan berikut "_Contoh tulisan miring_" kamu bisa sesuaikan sendiri teks-nya.
 3. Kemudian tekan kirim, maka hasilnya akan seperti gambar berikut ini
 
 .. image:: images/wa_miring.jpg
