@@ -35,7 +35,7 @@ Tulisan unik di wa biasanya dibuat dengan format teks tertentu, salah satunya ad
 2. Tulis format penulisan berikut _ Contoh tulisan miring _ kamu bisa sesuaikan sendiri teks-nya.
 3. Kemudian tekan kirim, maka hasilnya akan seperti gambar berikut ini
 
-.. image:: images/wa_miring.jpg
+.. image:: wa_miring.jpg
    :width: 600
    
 **Referensi:** `Generator tulisan miring <https://www.autobild.co.id/p/generator-tulisan-miring.html>`_
