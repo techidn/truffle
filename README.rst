@@ -1,5 +1,5 @@
 ###########################################
-Style guide for Sphinx-based documentations
+Pedoman Modifikasi Sphinx Coding Standard
 ###########################################
 
 This project is about coding standards for `Sphinx`_-based documentations.
